@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LJLD-Portfolio-Website/static/css/main.5179903e.css",
-    "main.js": "/LJLD-Portfolio-Website/static/js/main.41f25040.js",
+    "main.css": "/LJLD-Portfolio-Website/static/css/main.4a0c9bb2.css",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.26ef97a0.js",
     "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
     "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
     "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
@@ -18,19 +18,27 @@
     "static/media/hobby1.jpg": "/LJLD-Portfolio-Website/static/media/hobby1.1364bb6756daaee93d24.jpg",
     "static/media/ljane-selfie-3.png": "/LJLD-Portfolio-Website/static/media/ljane-selfie-3.9490b1abaff367c52bb7.png",
     "static/media/hobby.jpeg": "/LJLD-Portfolio-Website/static/media/hobby.6b538628dc0d930f51bc.jpeg",
+    "static/media/progskills4.png": "/LJLD-Portfolio-Website/static/media/progskills4.81ed438b18e24116794d.png",
+    "static/media/progskills5.png": "/LJLD-Portfolio-Website/static/media/progskills5.502c1a901665a0453b5c.png",
     "static/media/LhorenaJaneDeiparine_Resume.pdf": "/LJLD-Portfolio-Website/static/media/LhorenaJaneDeiparine_Resume.d57913c4bc39ce46795c.pdf",
+    "static/media/progskills6.png": "/LJLD-Portfolio-Website/static/media/progskills6.a14f191a75464b3534f6.png",
     "static/media/hobby2.jpg": "/LJLD-Portfolio-Website/static/media/hobby2.0aad9460191305f7b5c9.jpg",
     "static/media/Hello.ttf": "/LJLD-Portfolio-Website/static/media/Hello.0190aa923ce115863ed6.ttf",
     "static/media/hobby3.jpg": "/LJLD-Portfolio-Website/static/media/hobby3.e4ed4dcb73ae63ff0d53.jpg",
     "static/media/AvatarMaker.png": "/LJLD-Portfolio-Website/static/media/AvatarMaker.c74a3f6aacdb65bc6fb9.png",
+    "static/media/progskills7.png": "/LJLD-Portfolio-Website/static/media/progskills7.6e42b2a035b28f240021.png",
     "static/media/lmsjava.png": "/LJLD-Portfolio-Website/static/media/lmsjava.90fcaf4d89ad273ac099.png",
+    "static/media/progskills8.png": "/LJLD-Portfolio-Website/static/media/progskills8.bc4b43cd5f20ba305059.png",
+    "static/media/progskills3.png": "/LJLD-Portfolio-Website/static/media/progskills3.5f7e2134612e0ff9eb26.png",
+    "static/media/progskills2.png": "/LJLD-Portfolio-Website/static/media/progskills2.1a57e67ac1fd2ea84d64.png",
+    "static/media/progskills1.png": "/LJLD-Portfolio-Website/static/media/progskills1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/LJLD-Portfolio-Website/index.html",
-    "main.5179903e.css.map": "/LJLD-Portfolio-Website/static/css/main.5179903e.css.map",
-    "main.41f25040.js.map": "/LJLD-Portfolio-Website/static/js/main.41f25040.js.map",
+    "main.4a0c9bb2.css.map": "/LJLD-Portfolio-Website/static/css/main.4a0c9bb2.css.map",
+    "main.26ef97a0.js.map": "/LJLD-Portfolio-Website/static/js/main.26ef97a0.js.map",
     "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5179903e.css",
-    "static/js/main.41f25040.js"
+    "static/css/main.4a0c9bb2.css",
+    "static/js/main.26ef97a0.js"
   ]
 }
