@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LJLD-Portfolio-Website/static/css/main.5179903e.css",
-    "main.js": "/LJLD-Portfolio-Website/static/js/main.9883bca5.js",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.41f25040.js",
     "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
     "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
     "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
@@ -18,6 +18,7 @@
     "static/media/hobby1.jpg": "/LJLD-Portfolio-Website/static/media/hobby1.1364bb6756daaee93d24.jpg",
     "static/media/ljane-selfie-3.png": "/LJLD-Portfolio-Website/static/media/ljane-selfie-3.9490b1abaff367c52bb7.png",
     "static/media/hobby.jpeg": "/LJLD-Portfolio-Website/static/media/hobby.6b538628dc0d930f51bc.jpeg",
+    "static/media/LhorenaJaneDeiparine_Resume.pdf": "/LJLD-Portfolio-Website/static/media/LhorenaJaneDeiparine_Resume.d57913c4bc39ce46795c.pdf",
     "static/media/hobby2.jpg": "/LJLD-Portfolio-Website/static/media/hobby2.0aad9460191305f7b5c9.jpg",
     "static/media/Hello.ttf": "/LJLD-Portfolio-Website/static/media/Hello.0190aa923ce115863ed6.ttf",
     "static/media/hobby3.jpg": "/LJLD-Portfolio-Website/static/media/hobby3.e4ed4dcb73ae63ff0d53.jpg",
@@ -25,11 +26,11 @@
     "static/media/lmsjava.png": "/LJLD-Portfolio-Website/static/media/lmsjava.90fcaf4d89ad273ac099.png",
     "index.html": "/LJLD-Portfolio-Website/index.html",
     "main.5179903e.css.map": "/LJLD-Portfolio-Website/static/css/main.5179903e.css.map",
-    "main.9883bca5.js.map": "/LJLD-Portfolio-Website/static/js/main.9883bca5.js.map",
+    "main.41f25040.js.map": "/LJLD-Portfolio-Website/static/js/main.41f25040.js.map",
     "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5179903e.css",
-    "static/js/main.9883bca5.js"
+    "static/js/main.41f25040.js"
   ]
 }
