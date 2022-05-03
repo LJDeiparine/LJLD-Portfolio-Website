@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/LJLD-Portfolio-Website/static/css/main.5179903e.css",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.d4259299.js",
+    "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
+    "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
+    "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
+    "static/media/art6.jpeg": "/LJLD-Portfolio-Website/static/media/art6.b51972422eb560a387e9.jpeg",
+    "static/media/art7.jpeg": "/LJLD-Portfolio-Website/static/media/art7.6af42987207609a3c761.jpeg",
+    "static/media/art5.jpeg": "/LJLD-Portfolio-Website/static/media/art5.2ac88712f2490b3af827.jpeg",
+    "static/media/art4.jpeg": "/LJLD-Portfolio-Website/static/media/art4.76b56c92e9765da4cfa6.jpeg",
+    "static/media/art1.jpeg": "/LJLD-Portfolio-Website/static/media/art1.043aba8187276f185f90.jpeg",
+    "static/media/art3.jpg": "/LJLD-Portfolio-Website/static/media/art3.3ac48a2424eed28ca023.jpg",
+    "static/media/art2.jpg": "/LJLD-Portfolio-Website/static/media/art2.4957ddf81db7b1cf27a2.jpg",
+    "static/media/weekend.png": "/LJLD-Portfolio-Website/static/media/weekend.4acc13891c0f0c2911da.png",
+    "static/media/homepageA.png": "/LJLD-Portfolio-Website/static/media/homepageA.b7fe9556e2ebb3a95cff.png",
+    "static/media/brgy276.png": "/LJLD-Portfolio-Website/static/media/brgy276.16b7b9d47eae6e10fe0c.png",
+    "static/media/hobby1.jpg": "/LJLD-Portfolio-Website/static/media/hobby1.1364bb6756daaee93d24.jpg",
+    "static/media/ljane-selfie-3.png": "/LJLD-Portfolio-Website/static/media/ljane-selfie-3.9490b1abaff367c52bb7.png",
+    "static/media/hobby.jpeg": "/LJLD-Portfolio-Website/static/media/hobby.6b538628dc0d930f51bc.jpeg",
+    "static/media/hobby2.jpg": "/LJLD-Portfolio-Website/static/media/hobby2.0aad9460191305f7b5c9.jpg",
+    "static/media/Hello.ttf": "/LJLD-Portfolio-Website/static/media/Hello.0190aa923ce115863ed6.ttf",
+    "static/media/hobby3.jpg": "/LJLD-Portfolio-Website/static/media/hobby3.e4ed4dcb73ae63ff0d53.jpg",
+    "static/media/AvatarMaker.png": "/LJLD-Portfolio-Website/static/media/AvatarMaker.c74a3f6aacdb65bc6fb9.png",
+    "static/media/lmsjava.png": "/LJLD-Portfolio-Website/static/media/lmsjava.90fcaf4d89ad273ac099.png",
+    "index.html": "/LJLD-Portfolio-Website/index.html",
+    "main.5179903e.css.map": "/LJLD-Portfolio-Website/static/css/main.5179903e.css.map",
+    "main.d4259299.js.map": "/LJLD-Portfolio-Website/static/js/main.d4259299.js.map",
+    "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5179903e.css",
+    "static/js/main.d4259299.js"
+  ]
+}
