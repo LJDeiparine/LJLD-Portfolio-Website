@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LJLD-Portfolio-Website/static/css/main.5179903e.css",
-    "main.js": "/LJLD-Portfolio-Website/static/js/main.a19343ac.js",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.b98f3f21.js",
     "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
     "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
     "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
@@ -25,11 +25,11 @@
     "static/media/lmsjava.png": "/LJLD-Portfolio-Website/static/media/lmsjava.90fcaf4d89ad273ac099.png",
     "index.html": "/LJLD-Portfolio-Website/index.html",
     "main.5179903e.css.map": "/LJLD-Portfolio-Website/static/css/main.5179903e.css.map",
-    "main.a19343ac.js.map": "/LJLD-Portfolio-Website/static/js/main.a19343ac.js.map",
+    "main.b98f3f21.js.map": "/LJLD-Portfolio-Website/static/js/main.b98f3f21.js.map",
     "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5179903e.css",
-    "static/js/main.a19343ac.js"
+    "static/js/main.b98f3f21.js"
   ]
 }
