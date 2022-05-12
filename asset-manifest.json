@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LJLD-Portfolio-Website/static/css/main.b084dd59.css",
-    "main.js": "/LJLD-Portfolio-Website/static/js/main.959fb8f0.js",
+    "main.css": "/LJLD-Portfolio-Website/static/css/main.924f0f85.css",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.1b2a32ef.js",
     "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
     "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
     "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
@@ -21,6 +21,7 @@
     "static/media/progskills4.png": "/LJLD-Portfolio-Website/static/media/progskills4.81ed438b18e24116794d.png",
     "static/media/progskills5.png": "/LJLD-Portfolio-Website/static/media/progskills5.502c1a901665a0453b5c.png",
     "static/media/LhorenaJaneDeiparine_Resume.pdf": "/LJLD-Portfolio-Website/static/media/LhorenaJaneDeiparine_Resume.d57913c4bc39ce46795c.pdf",
+    "static/media/java.png": "/LJLD-Portfolio-Website/static/media/java.86407ffa56ebe1f70b6a.png",
     "static/media/progskills6.png": "/LJLD-Portfolio-Website/static/media/progskills6.a14f191a75464b3534f6.png",
     "static/media/hobby2.jpg": "/LJLD-Portfolio-Website/static/media/hobby2.0aad9460191305f7b5c9.jpg",
     "static/media/Hello.ttf": "/LJLD-Portfolio-Website/static/media/Hello.0190aa923ce115863ed6.ttf",
@@ -33,12 +34,12 @@
     "static/media/progskills2.png": "/LJLD-Portfolio-Website/static/media/progskills2.1a57e67ac1fd2ea84d64.png",
     "static/media/progskills1.png": "/LJLD-Portfolio-Website/static/media/progskills1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/LJLD-Portfolio-Website/index.html",
-    "main.b084dd59.css.map": "/LJLD-Portfolio-Website/static/css/main.b084dd59.css.map",
-    "main.959fb8f0.js.map": "/LJLD-Portfolio-Website/static/js/main.959fb8f0.js.map",
+    "main.924f0f85.css.map": "/LJLD-Portfolio-Website/static/css/main.924f0f85.css.map",
+    "main.1b2a32ef.js.map": "/LJLD-Portfolio-Website/static/js/main.1b2a32ef.js.map",
     "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b084dd59.css",
-    "static/js/main.959fb8f0.js"
+    "static/css/main.924f0f85.css",
+    "static/js/main.1b2a32ef.js"
   ]
 }
