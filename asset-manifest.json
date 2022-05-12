@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LJLD-Portfolio-Website/static/css/main.924f0f85.css",
-    "main.js": "/LJLD-Portfolio-Website/static/js/main.1b2a32ef.js",
+    "main.js": "/LJLD-Portfolio-Website/static/js/main.9f82152e.js",
     "static/js/787.a062e57a.chunk.js": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js",
     "static/media/blogs.png": "/LJLD-Portfolio-Website/static/media/blogs.65670d4eb632465fd840.png",
     "static/media/art8.jpeg": "/LJLD-Portfolio-Website/static/media/art8.7776fe911f89fcad3263.jpeg",
@@ -28,18 +28,18 @@
     "static/media/hobby3.jpg": "/LJLD-Portfolio-Website/static/media/hobby3.e4ed4dcb73ae63ff0d53.jpg",
     "static/media/AvatarMaker.png": "/LJLD-Portfolio-Website/static/media/AvatarMaker.c74a3f6aacdb65bc6fb9.png",
     "static/media/progskills7.png": "/LJLD-Portfolio-Website/static/media/progskills7.6e42b2a035b28f240021.png",
+    "static/media/progskills8.png": "/LJLD-Portfolio-Website/static/media/progskills8.007e99f68b718e476aba.png",
     "static/media/lmsjava.png": "/LJLD-Portfolio-Website/static/media/lmsjava.90fcaf4d89ad273ac099.png",
-    "static/media/progskills8.png": "/LJLD-Portfolio-Website/static/media/progskills8.bc4b43cd5f20ba305059.png",
     "static/media/progskills3.png": "/LJLD-Portfolio-Website/static/media/progskills3.5f7e2134612e0ff9eb26.png",
     "static/media/progskills2.png": "/LJLD-Portfolio-Website/static/media/progskills2.1a57e67ac1fd2ea84d64.png",
     "static/media/progskills1.png": "/LJLD-Portfolio-Website/static/media/progskills1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/LJLD-Portfolio-Website/index.html",
     "main.924f0f85.css.map": "/LJLD-Portfolio-Website/static/css/main.924f0f85.css.map",
-    "main.1b2a32ef.js.map": "/LJLD-Portfolio-Website/static/js/main.1b2a32ef.js.map",
+    "main.9f82152e.js.map": "/LJLD-Portfolio-Website/static/js/main.9f82152e.js.map",
     "787.a062e57a.chunk.js.map": "/LJLD-Portfolio-Website/static/js/787.a062e57a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.924f0f85.css",
-    "static/js/main.1b2a32ef.js"
+    "static/js/main.9f82152e.js"
   ]
 }
